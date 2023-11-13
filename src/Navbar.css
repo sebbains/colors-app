@@ -53,3 +53,8 @@
     border-color: green !important;
     box-shadow: 0 0 0 5px #9ecb87 !important;
 }
+
+.select-container{
+    margin-left: auto;
+    margin-right: 1rem;
+}
